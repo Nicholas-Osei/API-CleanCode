@@ -1,0 +1,14 @@
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Core-Application_Domain/bin/Debug/net6.0/Core-Application_Domain.deps.json
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Core-Application_Domain/bin/Debug/net6.0/Core-Application_Domain.dll
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Core-Application_Domain/bin/Debug/net6.0/ref/Core-Application_Domain.dll
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Core-Application_Domain/bin/Debug/net6.0/Core-Application_Domain.pdb
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Core-Application_Domain/obj/Debug/net6.0/Core-Application_Domain.csproj.AssemblyReference.cache
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Core-Application_Domain/obj/Debug/net6.0/Core-Application_Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Core-Application_Domain/obj/Debug/net6.0/Core-Application_Domain.AssemblyInfoInputs.cache
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Core-Application_Domain/obj/Debug/net6.0/Core-Application_Domain.AssemblyInfo.cs
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Core-Application_Domain/obj/Debug/net6.0/Core-Application_Domain.csproj.CoreCompileInputs.cache
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Core-Application_Domain/obj/Debug/net6.0/Core-Application_Domain.dll
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Core-Application_Domain/obj/Debug/net6.0/ref/Core-Application_Domain.dll
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Core-Application_Domain/obj/Debug/net6.0/Core-Application_Domain.pdb
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Core-Application_Domain/bin/Debug/net6.0/Core-Application_Domain.runtimeconfig.json
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Core-Application_Domain/obj/Debug/net6.0/Core-Application_Domain.genruntimeconfig.cache

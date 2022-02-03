@@ -1,0 +1,17 @@
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/bin/Debug/net6.0/Infrastructure.deps.json
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/bin/Debug/net6.0/Infrastructure.dll
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/bin/Debug/net6.0/ref/Infrastructure.dll
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/bin/Debug/net6.0/Infrastructure.pdb
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/bin/Debug/net6.0/Core-Application_Domain.dll
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/bin/Debug/net6.0/Core-Application_Domain.pdb
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CopyComplete
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/obj/Debug/net6.0/Infrastructure.dll
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/obj/Debug/net6.0/ref/Infrastructure.dll
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/obj/Debug/net6.0/Infrastructure.pdb
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/bin/Debug/net6.0/Infrastructure.runtimeconfig.json
+/Users/niconaldo/Desktop/Cloud Application/LearnNico/Infrastructure/obj/Debug/net6.0/Infrastructure.genruntimeconfig.cache
