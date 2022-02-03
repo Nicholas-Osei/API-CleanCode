@@ -1,0 +1,1 @@
+dotnet ef migrations script --output $(Build.ArtifactStagingDirectory)/$script.sql --context $PlayersContext  --idempotent
