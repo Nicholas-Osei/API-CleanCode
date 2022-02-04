@@ -24,4 +24,4 @@ FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
 COPY "LearnNico/appsettings.json" "/app/AppSettings.json"
-ENTRYPOINT ["dotnet", "LearnNico.dll"]
+ENTRYPOINT ["dotnet", "LearnNico_Presentation.dll"]
