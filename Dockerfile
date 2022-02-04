@@ -12,7 +12,7 @@ COPY ["LearnNico/LearnNico_Presentation.csproj", "LearnNico_Presentation/"]
 COPY ["Core-Application_Domain/Core-Application_Domain.csproj", "Core-Application_Domain/"]
 COPY ["Infrastructure/Infrastructure.csproj", "Infrastructure/"]
 
-RUN dotnet restore "LearnNico/LearnNico_Presentation.csproj"
+RUN dotnet restore "LearnNico_Presentation/LearnNico_Presentation.csproj"
 COPY . .
 WORKDIR "/src/LearnNico_Presentation"
 RUN dotnet build "LearnNico_Presentation.csproj" -c Release -o /app/build
