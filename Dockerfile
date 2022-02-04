@@ -23,5 +23,5 @@ RUN dotnet publish "LearnNico_Presentation.csproj" -c Release -o /app/publish
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-COPY "LearnNico_Presentation/appsettings.json" "/app/AppSettings.json"
+COPY "LearnNico/appsettings.json" "/app/AppSettings.json"
 ENTRYPOINT ["dotnet", "LearnNico_Presentation.dll"]
