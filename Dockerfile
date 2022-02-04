@@ -8,13 +8,13 @@ FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
 # COPY . .
 
-COPY ["LearnNico/LearnNico_Presentation.csproj", "LearnNico_Presentation/"]
+COPY ["LearnNico/LearnNico_Presentation.csproj", "LearnNico/"]
 COPY ["Core-Application_Domain/Core-Application_Domain.csproj", "Core-Application_Domain/"]
 COPY ["Infrastructure/Infrastructure.csproj", "Infrastructure/"]
 
-RUN dotnet restore "LearnNico_Presentation/LearnNico_Presentation.csproj"
+RUN dotnet restore "LearnNico/LearnNico_Presentation.csproj"
 COPY . .
-WORKDIR "/src/LearnNico_Presentation"
+WORKDIR "/src/LearnNico"
 RUN dotnet build "LearnNico_Presentation.csproj" -c Release -o /app/build
 
 FROM build AS publish
