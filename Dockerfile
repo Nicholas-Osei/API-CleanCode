@@ -8,9 +8,9 @@ FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
 # COPY . .
 
-COPY ["LearnNico/LearnNico_Presentation.csproj", "LearnNico/"]
 COPY ["Core-Application_Domain/Core-Application_Domain.csproj", "Core-Application_Domain/"]
 COPY ["Infrastructure/Infrastructure.csproj", "Infrastructure/"]
+COPY ["LearnNico/LearnNico_Presentation.csproj", "LearnNico/"]
 
 RUN dotnet restore "LearnNico/LearnNico_Presentation.csproj"
 COPY . .
